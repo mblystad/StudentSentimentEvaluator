@@ -68,13 +68,7 @@ nltk.download('vader_lexicon')
 4. **Visualize** insights with `seaborn` and `matplotlib`.
 5. **Generate word clouds** while filtering out common Norwegian stopwords.
 
----
 
-## 📤 Output Preview
-
-<img src="positive .png" width="400"/>  
-<img src="negative .png" width="400"/>  
-<sub>Example: Word clouds from translated statements</sub>
 
 ---
 
@@ -86,5 +80,4 @@ MIT License — free to use, adapt, and share!
 
 ## 👨‍🏫 Created by
 
-Magnus H. Blystad — Associate Professor in Psychology  
-Special interest in NLP, sentiment analysis, and educational tech.
+Magnus H. Blystad 
